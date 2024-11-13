@@ -1,5 +1,4 @@
 const express = require('express');
-// const {v4: uuidv} = require('uuid');
 const sectionRouter = require('./routes/section');
 const questionRouter = require('./routes/questions');
 
